@@ -10,7 +10,7 @@ Adquira seu **selo de verificação** do Instagram modificado **AeroInta** gratu
 
 # Perguntas Frequentes
 - Como faço para solicitar meu selo de verificação?
-> Para isso, [Clique aqui](## Adquirindo o selo de verificação) para ver o tutorial de como utilizar nosso servidor exclusivo.
+> Para isso, [Clique aqui](#Adquirindo-o-selo-de-verificação) para ver o tutorial de como utilizar nosso servidor exclusivo.
 - Minhas informações são comprometidas ao usar servidores do AeroInsta?
 > Não. Um servidor de verificados tem como função apenas receber uma lista de nomes informados no site hospedado e exibir no AeroInsta como conta verificada.
 - Preciso pagar para ter meu selo de verificado?
@@ -28,5 +28,5 @@ Adquira seu **selo de verificação** do Instagram modificado **AeroInta** gratu
 5. Desça até a opção `Enter your blue tick URL address.` e cole o URL do servidor `https://raw.githubusercontent.com/HeyJoker0001/AeroInstaVerificados/main/verificados.json`
 Agora todos que possui o selo de verificação aprovado por nós, exibira nos perfil o icone de verificado.
 
-## Adquirindo o selo de verificação
+# Adquirindo o selo de verificação
 Faça a solicitação preenchendo o [formulário de solicitação do selo verificado](https://forms.gle/3TCNabQZRebfvn336)
