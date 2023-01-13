@@ -25,7 +25,7 @@ Adquira seu **selo de verificação** do Instagram modificado **AeroInta** gratu
 2. Com o AeroInsta baixado e já logado em sua conta do Instagram, Acesse o menu de configurações clicando em `Perfil` e no canto superior direito da tela clique nas 3 barrinhas selecionando a opção `Configurações do AeroInsta`
 3. Selecione a opção `Verified badge` e abrirá uma tela de configuração do selo de verificação.
 4. Clique em `AeroInsta Official Servers` e selecione a opção `I will use my own server/URL link.` para dar permissão de informar o nosso servidor.
-5. Desça até a opção `Enter your blue tick URL address.` e cole o URL do servidor `https://raw.githubusercontent.com/HeyJoker0001/AeroInstaVerificados/main/verificados.json`
+5. Desça até a opção `Enter your blue tick URL address.` e cole o URL do servidor `https://raw.githubusercontent.com/KamikZMenu/AeroInstaVerificados/main/verificados.json`
 Agora todos que possui o selo de verificação aprovado por nós, exibira nos perfil o icone de verificado.
 
 # Adquirindo o selo de verificação
